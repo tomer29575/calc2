@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "################### start calc setup #################"
+export   REPO_ROOT="`pwd`"
+echo "REPO_ROOT= $REPO_ROOT"
+echo "################### end calc setup #################"
